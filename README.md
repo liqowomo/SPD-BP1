@@ -35,3 +35,4 @@
 Backup Text [`HERE`](./matter.md)
 - This is minus the diagrams and shit 
 
+Main focus is main repo this backup this one 
